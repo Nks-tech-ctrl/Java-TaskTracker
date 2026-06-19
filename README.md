@@ -10,7 +10,7 @@ A simple multi-user task tracker built using Java and a command-line interface.
 - Mark tasks as done
 - Delete tasks
 - Search tasks
-- CSV file storage for persistence
+- text file storage for persistence
 
 ## Project Structure
 src/
